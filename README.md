@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @visalphal
 - 👀 I’m interested in working alone
-- 🌱 I’m currently learning im learning English
+
   
 
 <!---
